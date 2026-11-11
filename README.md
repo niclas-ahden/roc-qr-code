@@ -13,7 +13,7 @@ See the documentation at [https://niclas-ahden.github.io/roc-qr-code/](https://n
 
 ```roc
 app [main!] {
-	pf: platform "https://github.com/roc-lang/basic-cli/releases/download/0.26.0/GddgvsGjiNXrHFW6au5i5dUDbTs8FinQdrgE2Gqmw53t.tar.zst",
+	pf: platform "https://github.com/roc-lang/basic-cli/releases/download/0.28.0/2yhxoR7cZPSYbyUzPWULFw8AA6QEcdsgFNRmzu7pZbst.tar.zst",
 	qr: "https://github.com/niclas-ahden/roc-qr-code/releases/download/0.1.0/2LMK7BBGrMD3rwdEV9mPK41ZPp3gNXS1Z7bgS7p9gZ4N.tar.zst",
 }
 
